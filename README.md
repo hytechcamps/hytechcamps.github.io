@@ -1,8 +1,7 @@
 # Hy-Tech Camps
 Material for Hyland's Hy-Tech Camps
 
+- [Building Webpages](https://hytechcamps.github.io/building-webpages/)
 - [Interactive Storytelling](https://hytechcamps.github.io/twine/)
 - [Retro Games](https://hytechcamps.github.io/retro-games/)
-- [JavaScript](https://hytechcamps.github.io/js-workshop/)
-- [Machine Learning](https://hytechcamps.github.io/machine-learning/)
-- [Automated Testing](https://hytechcamps.github.io/automated-testing/)
+- [Python](https://hytechcamps.github.io/python/)
