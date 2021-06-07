@@ -1,5 +1,5 @@
 # Pre-Camp Instructions
-Please read through these instructions before the night of the camp.
+Please read through these instructions before the night of the camp. Most of the instructions apply to all camps - however, some instructions are for specific camps. Be sure to note the specific instructions for the camp you will be attending.
 
 ## Recommendations
 - We recommend a desktop or laptop computer for all virtual camps.
@@ -32,7 +32,7 @@ For both the Programming with Python camp AND the Building Webpages camp, you sh
    - If you have a phone or another device, we recommend using that device to answer the questions. Instructions will appear on the screen in the Zoom meeting.
    - If you only have one device, you can open a new web browser window and follow the instructions to join the Kahoot from there. We can help you get everything set up.
 
-# During the Meeting – Code-Along: Single Device
+## During the Meeting – Code-Along: Single Device
 The most difficult setup will be for the code-along. The ultimate goal is for you to see both the instructor's code and your own code at the same time.
 
 1. In the Zoom meeting, move your cursor to the top of the screen and hold it there. A menu bar should appear. From there, click on "View Options" and then "Exit Full Screen":
