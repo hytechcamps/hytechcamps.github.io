@@ -8,7 +8,7 @@ Please read through these instructions before the night of the camp.
 - We do not recommend using a phone or tablet as your main device for the virtual Hy-Tech Camp. This is because the size of those screens may make it difficult to participate in the activities.
 
 ## Before the Meeting
-1. Download Zoom onto your device if you do not already have it installed.
+1. Download [Zoom](https://zoom.us) onto your device if you do not already have it installed.
 1. Make sure you can properly open the tool for your camp on your device. Check below to see which tools are needed.
 
 ### Creating Video Games with MakeCode Arcade
