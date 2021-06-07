@@ -1,5 +1,5 @@
 # Pre-Camp Instructions
-Please read through these instructions before the night of the camp. Most of the instructions apply to all camps - however, some instructions are for specific camps. Be sure to note the specific instructions for the camp you will be attending.
+Please read through these instructions before the night of the camp. Most of the instructions apply to all camps - however, some instructions are for specific sessions. Be sure to note the specific instructions for the camp you will be attending.
 
 ## Recommendations
 - We recommend a desktop or laptop computer for all virtual camps.
