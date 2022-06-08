@@ -1,10 +1,12 @@
 # Hy-Tech Camps
 Material for Hyland's Hy-Tech Camps
 
-- [Building Webpages](https://hytechcamps.github.io/building-webpages/)
-- [Interactive Storytelling](https://hytechcamps.github.io/twine/)
-- [Retro Games](https://hytechcamps.github.io/retro-games/)
 - [Python](https://hytechcamps.github.io/python/)
+- [Machine Learning](https://hytechcamps.github.io/machine-learning/)
+- [Animation](https://hytechcamps.github.io/animation/)
+- [Computers & Society](https://hytechcamps.github.io/computers-and-society/)
+- [Data Visualization](https://hytechcamps.github.io/data-viz/)
+- [Blockchain](https://hytechcamps.github.io/blockchain/)
 
 ## Zoom Information
 If you are joining virtually, please make sure you join the correct room! Here is the room information:
