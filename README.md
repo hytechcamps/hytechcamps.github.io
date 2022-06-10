@@ -31,3 +31,6 @@ If you are joining virtually, please make sure you join the correct room! Here i
 
 ## Pre-Camp Instructions
 Before the night of the camp, follow the [pre-camp instructions](PreCampInstructions.md) to prepare.
+
+## Feedback Survey
+[Click here to go to the feedback survey!](https://forms.gle/wryBM9WGheDo6JPbA)
