@@ -7,6 +7,7 @@ Welcome to Hyland's Hy-Tech Camps!
 - [Computers & Society](https://hytechcamps.github.io/computers-and-society/)
 - [Data Visualization](https://hytechcamps.github.io/data-viz/)
 - [Blockchain](https://hytechcamps.github.io/blockchain/)
+- [Security](https://hytechcamps.github.io/security/)
 
 ## Zoom Information
 If you are joining virtually, please make sure you join the correct room! Here is the room information:
