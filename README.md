@@ -13,10 +13,7 @@ Welcome to Hyland's Hy-Tech Camps!
 If you are joining virtually, please make sure you join the correct room! Here is the room information:
 
 ### Zoom Room 1: TechOutreach01
-[Click here to join the meeting.](https://hyland.zoom.us/j/94337041161?pwd=QytVSjNjajdDRWpHL05xQi9iMXpkUT09)
-
-- Meeting ID: 943 3704 1161
-- Passcode: 025176
+[Click here to join the meeting.](https://hyland.zoom.us/j/93963288538?pwd=MVZoTDk5WFBNcy9tN1AxdlRIVlQrUT09)
 
 ### Zoom Room 2: TechOutreach02
 [Click here to join the meeting.](https://hyland.zoom.us/j/92592291549?pwd=M1V4QmpkQzhqeTJ0RG9ib3JmbjFzUT09)
