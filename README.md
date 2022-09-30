@@ -13,7 +13,7 @@ Welcome to Hyland's Hy-Tech Camps!
 If you are joining virtually, please make sure you join the correct room! Here is the room information:
 
 ### Zoom Room 1: TechOutreach01
-[Click here to join the meeting.](https://hyland.zoom.us/j/93963288538?pwd=MVZoTDk5WFBNcy9tN1AxdlRIVlQrUT09)
+[Click here to join the meeting.](https://hyland.zoom.us/j/97081890600?pwd=OTBQNk9qd1pjc21VZzA5MTZzZ1gwZz09)
 
 ### Zoom Room 2: TechOutreach02
 [Click here to join the meeting.](https://hyland.zoom.us/j/92592291549?pwd=M1V4QmpkQzhqeTJ0RG9ib3JmbjFzUT09)
